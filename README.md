@@ -4,4 +4,9 @@ Some description!
 
 ## Subheader
 
-watch tutorial on youtube
+Watch tutorial on Youtube.
+
+## Local Development
+
+1. Open index.html in your browser
+2. Don't forget to add the CSS
